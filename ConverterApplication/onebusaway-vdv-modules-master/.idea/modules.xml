@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/onebusaway-vdv-modules.iml" filepath="$PROJECT_DIR$/onebusaway-vdv-modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onebusaway-vdv452/onebusaway-vdv452.iml" filepath="$PROJECT_DIR$/onebusaway-vdv452/onebusaway-vdv452.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onebusaway-vdv452-to-gtfs-converter/onebusaway-vdv452-to-gtfs-converter.iml" filepath="$PROJECT_DIR$/onebusaway-vdv452-to-gtfs-converter/onebusaway-vdv452-to-gtfs-converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onebusaway-vdv452-to-gtfs-converter-cli/onebusaway-vdv452-to-gtfs-converter-cli.iml" filepath="$PROJECT_DIR$/onebusaway-vdv452-to-gtfs-converter-cli/onebusaway-vdv452-to-gtfs-converter-cli.iml" />
+    </modules>
+  </component>
+</project>
